@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/H3rHelper">
+        <file>Resources/logo.bmp</file>
+        <file>Resources/icon.png</file>
+        <file>Resources/h3r.ico</file>
+        <file>Resources/srun.png</file>
+    </qresource>
+</RCC>
